@@ -53,7 +53,10 @@ Here’s a glimpse of the **Posts** project in action:
 
 ---
 
-> Thanks for checking out the **Posts** project! 🎉  
-> Stay tuned for more awesome projects! 🚀
+## 💬 Feedback
+
+Found a bug or want to suggest an improvement?  
+Feel free to open an [issue](https://github.com/Baljann/fetching-posts/issues) or submit a pull request. Contributions are warmly welcome! 🚀
+
 
 
