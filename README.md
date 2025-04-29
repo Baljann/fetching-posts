@@ -45,11 +45,10 @@ Here’s a glimpse of the **Posts** project in action:
 
 ---
 
-## 🌟 What I Learned
-- How to manipulate the DOM dynamically.
-- How to work with Local Storage in JavaScript.
-- Handling API fetch requests and integrating them into a user interface.
-- Building better user experiences with success/error feedback.
+## 🙌 Acknowledgments
+
+This project was built as part of my front-end learning journey.  
+I’m excited to continue improving and building more interactive web experiences! 🌟
 
 ---
 
