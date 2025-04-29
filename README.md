@@ -41,7 +41,7 @@ This mini blog-like application lets users easily **create**, **edit**, **delete
 
 Here’s a glimpse of the **Posts** project in action:
 
-<img src="https://github.com/user-attachments/assets/cf7f5028-1778-4ca7-a310-3bbb376d4c72" width="400" />
+<img src="https://github.com/user-attachments/assets/cf7f5028-1778-4ca7-a310-3bbb376d4c72" />
 
 ---
 
